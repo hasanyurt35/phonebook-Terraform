@@ -162,25 +162,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 
 - Git & Github for Version Control System
 
-### At the end of the project, students will be able to;
 
-- show their coding skills using boolean/math operators, string formatting, if statements and functions within Python.
-
-- apply web programming skills using HTTP GET/POST methods, template formatting, importing packages within Python Flask Framework
-
-- configure connection to the `MySQL` database.
-
-- work with a database using the SQL within Flask application.
-
-- demonstrate bash scripting skills using `user data` section within launch template in Terraform to install and setup web application on EC2 Instance.
-
-- demonstrate their configuration skills of AWS EC2 Launch Templates, Application Load Balancer, ALB Target Group, ALB Listener, Auto Scaling Group, RDS and Security Groups.
-
-- configure Terraform template to use AWS Resources.
-
-- show how to use Terraform to launch AWS Resources.
-
-- apply git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
   
@@ -227,3 +209,4 @@ aws ec2 describe-subnets --no-paginate --filters "Name=default-for-az,Values=tru
 - [Terraform AWS Provider Documentaion](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 - [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
+
